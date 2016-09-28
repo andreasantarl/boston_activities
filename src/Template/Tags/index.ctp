@@ -1,3 +1,8 @@
+<?
+if(!empty($use_global)){?><link rel="stylesheet" href="/css/global.css" type="text/css" media="all" />
+<?}?>
+
+
 <nav class="large-3 medium-4 columns" id="actions-sidebar">
     <ul class="side-nav">
         <li class="heading"><?= __('Actions') ?></li>
