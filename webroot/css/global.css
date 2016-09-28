@@ -1,0 +1,9 @@
+.loginContainer {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.newAccountLink {
+  position: relative;
+  left: 70%;
+}
